@@ -17,7 +17,7 @@ import static org.junit.Assert.assertThat;
 /**
  * Created by ZhangGuohua on 2017/3/29.
  */
-public class RxJavaTest {
+public class NetflixRxJavaTest {
     private static final List<String> WORDS =
             Arrays.asList(
                     "the",
